@@ -1,7 +1,11 @@
-# Student Enrollment Regisration Form
-### Task3 - Create a registration form whose data display in same page using REACT.
+# LGMVIP-Web-Task-3
+### Create a Student Registration form and display it using ReactJS.
 
-![image](https://user-images.githubusercontent.com/71166016/178051518-ab126c9f-23cc-4d5c-b56b-b2947ba7ac46.png)
-![image](https://user-images.githubusercontent.com/71166016/178053314-0d82661c-3d60-48c3-93ef-5a82dd1c73a6.png)
-![image](https://user-images.githubusercontent.com/71166016/178053520-c923b447-05e6-4258-9b2a-9916dc6a2a3d.png)
+![image](https://github.com/devadharshan-s/LGMVIP-Web-Task-3/assets/104019511/52d2c591-ab86-440f-b8fe-af25eb1a3adf)
+
+![image](https://github.com/devadharshan-s/LGMVIP-Web-Task-3/assets/104019511/bf8b5629-dba0-4a6d-bd71-cd04609d2a71)
+
+Type "npm start" in cmd to run this project.
+
+
 
