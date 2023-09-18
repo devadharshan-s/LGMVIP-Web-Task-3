@@ -1,0 +1,42 @@
+{
+  "name": "enrollment-form",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "![image](https://user-images.githubusercontent.com/71166016/178051518-ab126c9f-23cc-4d5c-b56b-b2947ba7ac46.png) ![image](https://user-images.githubusercontent.com/71166016/178053314-0d82661c-3d60-48c3-93ef-5a82dd1c73a6.png) ![image](https://user-images.githubusercontent.com/71166016/178053520-c923b447-05e6-4258-9b2a-9916dc6a2a3d.png)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
